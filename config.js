@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: '9Anime',
 			icon: 'trello',
 			link: 'https://9anime.id',
 		},
@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Steam',
-			icon: 'Steam',
+			icon: 'headphone',
 			link: 'https://store.steampowered.com/',
 		},
 		{
