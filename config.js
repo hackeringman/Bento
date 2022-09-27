@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://9anime.id',
 		},
 		{
 			id: '4',
@@ -92,9 +92,9 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Steam',
+			icon: 'Steam',
+			link: 'https://store.steampowered.com/',
 		},
 		{
 			id: '2',
@@ -104,27 +104,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
+			name: 'Repl.it',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://replit.com/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'Shopee',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://shopee.com.my/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
+			name: '1337x.to',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://www.1377x.to/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
+			name: 'Canva',
 			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'https://www.canva.com/',
 		},
 	],
 
