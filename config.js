@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Steam',
-			icon: 'headphone',
+			icon: 'headphones',
 			link: 'https://store.steampowered.com/',
 		},
 		{
