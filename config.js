@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: '9Anime',
-			icon: 'trello',
+			icon: 'play',
 			link: 'https://9anime.id',
 		},
 		{
@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Steam',
-			icon: 'headphones',
+			icon: 'check-circle',
 			link: 'https://store.steampowered.com/',
 		},
 		{
@@ -117,13 +117,13 @@ const CONFIG = {
 		{
 			id: '5',
 			name: '1337x.to',
-			icon: 'pen-tool',
+			icon: 'x',
 			link: 'https://www.1377x.to/',
 		},
 		{
 			id: '6',
 			name: 'Canva',
-			icon: 'figma',
+			icon: 'scroll',
 			link: 'https://www.canva.com/',
 		},
 	],
