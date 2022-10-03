@@ -122,9 +122,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Canva',
-			icon: 'scroll',
-			link: 'https://www.canva.com/',
+			name: 'ToDoList',
+			icon: 'trello',
+			link: 'https://todoist.com/',
 		},
 	],
 
