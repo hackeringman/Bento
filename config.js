@@ -118,7 +118,7 @@ const CONFIG = {
 			id: '5',
 			name: '1337x.to',
 			icon: 'x',
-			link: 'https://www.1377x.to/',
+			link: 'https://x1337x.se',
 		},
 		{
 			id: '6',
