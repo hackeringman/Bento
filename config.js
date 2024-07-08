@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: '9Anime',
+			name: 'AniWave',
 			icon: 'play',
-			link: 'https://9anime.id',
+			link: 'https://aniwave.to',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Classroom',
-			icon: 'glasses',
-			link: 'https://classroom.google.com/u/2/',
+			name: 'Gemini',
+			icon: 'sparkle',
+			link: 'https://google.gemini.com',
 		},
 		{
 			id: '6',
@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Repl.it',
-			icon: 'bot',
-			link: 'https://replit.com/',
+			name: 'Outlook',
+			icon: 'inbox',
+			link: 'https://outlook.office365.com/mail/',
 		},
 		{
 			id: '4',
@@ -118,7 +118,7 @@ const CONFIG = {
 			id: '5',
 			name: '1337x.to',
 			icon: 'x',
-			link: 'https://x1337x.se',
+			link: 'https://1337x.to',
 		},
 		{
 			id: '6',
