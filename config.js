@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Mahan.',
+	name: 'euriph.',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Gemini',
 			icon: 'sparkle',
-			link: 'https://google.gemini.com',
+			link: 'https://gemini.google.com',
 		},
 		{
 			id: '6',
